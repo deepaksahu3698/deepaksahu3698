@@ -1,7 +1,7 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--WPQ75f2s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epv55hgtsfi8csprpj9u.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Deeapk</h1>
-<h3 align="center">A passionate Full stack webdeveloper from India</h3>
+<h3 align="center">A passionate, hardworking and highly efficient web developer with sound knowledge in Full Stack technology and hands-on practice in Data Structure and Algorithms.</h3>
 <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepaksahu3698&label=Profile%20views&color=0e75b6&style=flat" alt="deepaksahu3698" /> </p>
 
